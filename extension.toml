@@ -2,6 +2,6 @@ id = "rainbow"
 name = "Rainbow"
 schema_version = 1
 version = "0.1.0"
-authors = ["Athan Xiao <athan.xiao@gmail.com>"]
+authors = ["Athan Xiao <athanseal@gmail.com>"]
 description = "Rainbow theme for Zed"
 repository = "https://github.com/athxx/zed-theme-rainbow"
