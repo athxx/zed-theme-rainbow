@@ -1,4 +1,3 @@
-rainbow/README.md
 # Rainbow Theme for Zed
 
 This is a simple and modern theme for the Zed editor, featuring a clean interface and subtle background effects. The theme includes both light and dark variants, designed to provide a pleasant and distraction-free coding experience.
