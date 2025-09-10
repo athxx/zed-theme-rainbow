@@ -8,9 +8,7 @@ This is a simple and modern theme for the Zed editor, featuring a clean interfac
 - Subtle background styling
 - Minimal, modern look
 
-## Usage
+## Appearance
 
-1. Copy or clone this repository into your Zed themes directory.
-2. Select "Rainbow" from the theme options in Zed.
-
-Feel free to customize the theme to better suit your preferences!
+![theme0](./theme.avif)
+![theme1](./theme1.avif)
